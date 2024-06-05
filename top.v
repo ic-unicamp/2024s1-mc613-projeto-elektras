@@ -48,7 +48,7 @@ wire lavinha;
 wire hit_bar;
 wire hit_block;
 wire endgame_ball;
-wire endgame_block;
+//wire endgame_block;
 wire endgame;
 
 // Flags para identificar a colisão com os blocos
